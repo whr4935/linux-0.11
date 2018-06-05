@@ -1,0 +1,10 @@
+*.o
+*.a
+hdc-0.11-new.img
+tools/system
+boot/setup
+boot/bootsect
+System.map
+Image
+kernel/chr_drv/keyboard.s
+
